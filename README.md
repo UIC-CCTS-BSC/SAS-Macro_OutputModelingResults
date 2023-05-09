@@ -1,0 +1,30 @@
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+# SAS Macro: Output Modeling Results
+
+**Description**  
+This code defines several SAS macros and demonstrates the process of
+generating unweighted logistic and linear regression models and
+outputting results to Excel.
+
+Steps include:
+
+- Importing and formatting the sample dataset
+- Fitting logistic and linear regression models
+- Calculating summary statistics and parameter estimates
+- Exporting results to external files
+
+**Dataset**  
+PBC
+
+**Date**  
+12/13/2022
+
+**Demonstrated SAS Version**  
+SAS 9.4
+
+**Author**  
+Pei-Shan Yen  
+Biostatistics Core, Center for Clinical and Translational Science  
+University of Illinois at Chicago
